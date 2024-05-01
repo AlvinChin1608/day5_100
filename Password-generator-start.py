@@ -28,7 +28,7 @@ print(PyPassword)
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
-# Method - 2 For Loop method -------------------------------------------------------------------------------------------
+# Method - 2 -------------------------------------------------------------------------------------------
 """
 #Password Generator Project
 import random
