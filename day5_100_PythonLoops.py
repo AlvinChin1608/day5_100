@@ -45,7 +45,7 @@ for number in range(1,10,3):
   print(number) #1,4,7
 
 """
-Interesting thoughts process
+Interesting thought process
 https://letstalkscience.ca/educational-resources/backgrounders/gauss-summation#:~:text=Gauss%20used%20this%20same%20method,arrive%20at%20his%20answer%3A%205050.
 """
 sum = 0
